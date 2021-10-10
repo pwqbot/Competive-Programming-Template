@@ -2,7 +2,7 @@
 title: DP
 categories:
   - ACM
-  - 模板
+  - Template
 ---
 
 
@@ -40,10 +40,6 @@ categories:
   ```
 
   
-
-
-
-
 
 
 
